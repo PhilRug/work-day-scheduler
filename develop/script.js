@@ -21,7 +21,7 @@ $(document).ready(function () {
     // current hour in 24-hour time?
     function timeManagement() {
         var currentTime = dayjs();
-        $('time-block').each(function () {
+        $('.time-block').each(function () {
             var oldHour = parseInt($(this).attr('id').split('hour')[1]);
             if (oldHour < currentTime) {
                 $(this).removeClass('present future');
