@@ -12,7 +12,7 @@ $(document).ready(function () {
         console.log('working?')
         var info = $(this).siblings('.description').val();
         var time = $(this).parent().attr('id');
-        localStorage.setItem(info, time);
+        localStorage.setItem(info, time);        
     })
     // TODO: Add code to apply the past, present, or future class to each time
     // block by comparing the id to the current hour. HINTS: How can the id
