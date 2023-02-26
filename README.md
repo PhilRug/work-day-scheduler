@@ -8,3 +8,5 @@ Do you need a way to organize your day? Are you great at being productive but no
 Live site can be found at  https://philrug.github.io/work-day-scheduler/
 
 page manipulation code came from http://learn.jquery.com/using-jquery-core/document-ready/
+
+dayjs hour code came from https://day.js.org/docs/en/get-set/hour
