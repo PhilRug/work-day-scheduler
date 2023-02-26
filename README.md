@@ -6,3 +6,5 @@ Do you need a way to organize your day? Are you great at being productive but no
 ![working calender](assets/05-third-party-apis-homework-demo.gif)
 
 Live site can be found at  https://philrug.github.io/work-day-scheduler/
+
+page manipulation code came from http://learn.jquery.com/using-jquery-core/document-ready/
